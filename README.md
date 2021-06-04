@@ -3,5 +3,5 @@ Dealing with strings, arrays, sorting(insertion sort, selection sort, merge sort
 
 
 ### italiano:
-Le cartelle Esercizi ed Esami contengono specifica e -ove presenti- relative soluzioni in C assegnate negli anni durante il corso di Algoritmica e Laboratorio dell'Universita' di Pisa.
+Le cartelle Esercizi ed Esami contengono specifica e -ove presenti- relative soluzioni in C di problemi assegnati negli anni durante il corso di Algoritmica e Laboratorio dell'Universita' di Pisa.
 Gli argomenti trattati riguardano: stringhe, array, algoritmi di ordinamento (insertion, selection, merge, quick sort), liste concatenate (sia singolarmente che doppiamente), alberi binari di ricerca, grafi, tabelle hash.
